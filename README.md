@@ -18,7 +18,7 @@ I built it to replace a manual task: adding up my family business's monthly sale
 The `samples/` folder contains invented invoices. No real data is included in this repository.
 
 ```bash
-git clone https://github.com/<your-username>/invoice-sales-summary.git
+git clone https://github.com/<lucreciaramirez>/invoice-sales-summary.git
 cd invoice-sales-summary
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (on Mac/Linux: source .venv/bin/activate)
